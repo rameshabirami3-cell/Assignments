@@ -30,4 +30,5 @@ Second number = 2.45
 First number = 2.45
 Second number = 1.2
 
+This code is very useful for understanding.
 
