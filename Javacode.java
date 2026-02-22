@@ -1,4 +1,4 @@
-ublic class SwapNumbers {
+Public class SwapNumbers {
 
     public static void main(String[] args) {
 
@@ -29,4 +29,5 @@ Second number = 2.45
 --After swap--
 First number = 2.45
 Second number = 1.2
+
 
